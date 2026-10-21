@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Data & outputs (not published)
+outputs/
+doc-fetch-resources/
+*.mp4
+*.jpeg
+*.jpg
+*.png
